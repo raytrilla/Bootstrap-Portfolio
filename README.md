@@ -32,6 +32,10 @@ A footer section.
 - All buttons displaying a box shadow upon hover.
 [footer-section-demo.webm](https://github.com/raytrilla/Bootstrap-Portfolio/assets/151631423/acd7c798-d715-4ce8-8f57-2556e91afbfc)
 
+Helpful resources:
+- https://getbootstrap.com/ (To guide through building each section)
+- https://www.youtube.com/watch?v=QCEQs4rUTkI&t=2s (for contact form)
+
 Live Portfolio Website link
 https://raytrilla.github.io/Bootstrap-Portfolio/
 
